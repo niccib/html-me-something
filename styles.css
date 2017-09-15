@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to bottom, #66ccff 12%, #ffffcc 71%);
+    margin: 20px;
+    padding: 20px;
+}
+
+#story {
+     font-size: 20;
+     color: yellow;
+}
+
+h1 {
+    color: hotpink;
+}
+
+p {
+    font-size: 18px;
+    font-family: verdana;
+}
+
+.pic {
+    text-align: center;
+}
+
+h2 {
+    color: limegreen;
+}
